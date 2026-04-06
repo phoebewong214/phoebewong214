@@ -20,10 +20,12 @@ I care about one thing above all: making complex systems feel simple for the peo
 
 ## 🛠️ What I'm building here
 
-| Project | What it is | Stack |
-|---|---|---|
-| [chatbi-rag-demo](./chatbi-rag-demo) | Ask your data questions in plain English → instant charts | Python · LangChain · Streamlit · OpenAI |
-| [ecommerce-funnel-analysis](./ecommerce-funnel-analysis) | End-to-end funnel analysis & GMV attribution notebook | Python · Pandas · SQL · Plotly |
+| Project | What it is | Impact / Focus | Stack |
+|---|---|---|---|
+| [cross-border-insurance-platform](./cross-border-insurance-platform) | Digital platform for GBA cross-border car insurance | Designed end-to-end user journey (quote → application → document upload); optimized fragmented offline workflow with modular system design | PHP · MySQL · HTML · CSS · JavaScript |
+| codequest (UX Project) | Gamified coding learning app for teens (13–18) | Led UX research & prototyping; improved engagement and navigation clarity using game mechanics and Norman’s design principles | Figma · UX Research |
+| [chatbi-rag-demo](./chatbi-rag-demo) | Ask business data questions in plain English → auto SQL + charts | Built NL → SQL → visualization pipeline; reduces barrier for non-technical users to access insights | Python · LangChain · Streamlit · OpenAI |
+| [ecommerce-funnel-analysis](./ecommerce-funnel-analysis) | End-to-end funnel analysis & GMV attribution | Identified drop-off points and key drivers to support data-driven campaign optimization | Python · Pandas · SQL · Plotly |
 
 ---
 
