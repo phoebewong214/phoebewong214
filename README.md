@@ -12,8 +12,6 @@ I care about one thing above all: making complex systems feel simple for the peo
 - Architected a Natural Language → SQL → Visualization pipeline
 - +23% prompt accuracy · -17% user re-queries · 60% feature adoption in 3 months
 
-**@ Xiaohongshu (Little Red Book)** — Diagnosed a 15% YoY spike in checkout drop-offs through multi-dimensional GMV decomposition. The traffic reallocation strategy I proposed was adopted into the next campaign roadmap.
-
 **@ NielsenIQ** — Built a multi-channel sentiment model for Volvo's S90 launch. Findings drove a 30% GMV lift and a +10 NPS improvement.
 
 ---
