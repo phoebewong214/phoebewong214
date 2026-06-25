@@ -53,4 +53,4 @@ I'm actively looking for **PM roles in AI/SaaS** — ideally where the product i
 
 ---
 
-<sub>Northwestern MSIS '26 · Previously @ NetEase · Xiaohongshu · NielsenIQ · Chicago, IL</sub>
+<sub>Northwestern MSIS '26 · Previously @ NetEase · NielsenIQ · Chicago, IL</sub>
